@@ -1,6 +1,12 @@
 /* abstracts */
 /* vendors */
+@import './vendors/normalize';
+
 /* base */
+@import './base/reset';
+@import './base/typography';
+
 /* layout */
 /* components */
 /* pages */
+@import './pages/home';
